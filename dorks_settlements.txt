@@ -1,0 +1,637 @@
+Dorks list to find anything related to West Bank settlements, including real estate, government, movements, roads, checkpoints, etc.
+
+For more specific searches you can use the list of settlements at the end (Hebrew + English).
+
+General Search
+site:.il "יהודה ושומרון" דירות
+site:.il "יהודה ושומרון" נדל״ן
+site:.il "יו״ש" דירות
+site:.il "נדל״ן ביהודה ושומרון"
+site:.il "נדל״ן בשומרון"
+site:.il "נדל\"ן יו\"ש"
+site:.il "נדל\"ן ביו\"ש"
+site:.il "נדל\"ן באזור יו\"ש"
+site:.il "דירות ביהודה ושומרון"
+site:.il "בתים ביהודה ושומרון"
+site:.il "מגורים ביהודה ושומרון"
+site:.il "מגורים בשומרון"
+site:.il "נדל\"ן באזורי יהודה"
+site:.il "נדל\"ן באזור השומרון"
+site:.il "נדל\"ן מעבר לקו הירוק"
+site:.il "דירות מעבר לקו הירוק"
+site:.il "מגורים מעבר לקו הירוק"
+site:.il "בנייה ביו\"ש"
+site:.il "בנייה ביהודה ושומרון"
+site:.il "פיתוח ביהודה ושומרון"
+site:.il "פיתוח בשומרון"
+site:.il "פרויקטים ביהודה ושומרון"
+site:.il "תכנון ביהודה ושומרון"
+site:.il "תכנון בשומרון"
+site:.il "תכניות ביהודה ושומרון"
+site:.il "ייזום ביהודה ושומרון"
+site:.il "למכירה ביהודה ושומרון"
+site:.il "למכירה ביו\"ש"
+site:.il "השקעות ביהודה ושומרון"
+site:.il "הזדמנויות ביהודה ושומרון"
+site:.il "West Bank" housing Israel
+site:.il "West Bank" residential Israel
+site:.il "West Bank" development Israel
+site:.il "Judea Samaria" housing
+site:.il "Judea Samaria" development
+site:.il "יהודה ושומרון" פרויקט
+site:.il "שומרון" נדל\"ן
+site:.il "יו\"ש" נדל\"ן
+
+Real estates
+site:.il "בקעת הירדן" דירות
+site:.il "מעלה אדומים" דירות
+site:.il "ביתר עילית" דירות
+site:.il "אריאל" דירות
+site:.il "גבעת זאב" דירות
+site:.il "קרני שומרון" דירות
+site:.il "אפרת" דירות
+site:.il "אלפי מנשה" דירות
+site:.il "אורנית" דירות
+site:.il "פסגת זאב" דירות
+site:.il "הר חומה" דירות
+site:.il "גילו" דירות
+site:.il "מישור אדומים" נדל״ן
+site:.il "West Bank" apartments
+site:.il "West Bank" real estate
+site:.il "Judea and Samaria" real estate
+site:.il "Judea & Samaria" apartments
+site:.il "Samaria" real estate Israel
+site:.il "Ariel" real estate Israel
+site:.il "Maale Adumim" apartments
+site:.il "Beitar Illit" apartments
+site:.il "Givat Zeev" real estate
+site:.il "Efrat" real estate
+site:.il "Karnei Shomron" real estate
+site:.il "Alfei Menashe" real estate
+site:.il "Oranit" real estate
+
+Projects & construction
+site:.il "שומרון" פרויקט מגורים
+site:.il "פרויקט" "יהודה ושומרון"
+site:.il "פרויקט מגורים" שומרון
+site:.il "פרויקט בנייה" שומרון
+site:.il "פרויקט בנייה" יהודה
+site:.il "שכונת מגורים" שומרון
+site:.il "הקמת שכונה" שומרון
+site:.il "פרויקט מגורים חדש" שומרון
+site:.il "פרויקט למגורים" שומרון
+site:.il "פרויקט יזמי" שומרון
+site:.il "פרויקט נדל\"ן" שומרון
+site:.il "מתחם מגורים" שומרון
+site:.il "מתחם בנייה" שומרון
+site:.il "שכונה חדשה" שומרון
+site:.il "שכונה חדשה" יהודה
+site:.il "שלב א'" שומרון
+site:.il "שלב ב'" שומרון
+site:.il "הרחבת שכונה" שומרון
+site:.il "ביצוע פרויקט" שומרון
+site:.il "עבודות בנייה" שומרון
+site:.il "קבלן מבצע" שומרון
+site:.il "ניהול פרויקט" שומרון
+site:.il "פיקוח בנייה" שומרון
+site:.il "אישור תב\"ע" שומרון
+site:.il "קידום תכנית" שומרון
+site:.il "קידום פרויקט" שומרון
+site:.il "תכנון וביצוע" שומרון
+site:.il "ייזום ותכנון" שומרון
+site:.il "יחידות דיור" שומרון
+site:.il "מאות יחידות דיור" שומרון
+site:.il "פרויקט של" "יחידות דיור" שומרון
+site:.il "בנייה רוויה" שומרון
+site:.il "פרויקט מאוכלס" שומרון
+site:.il "פרויקט בהקמה" שומרון
+site:.il "פרויקט בתכנון" שומרון
+site:.il "אכלוס בקרוב" שומרון
+
+Infrastructure & transportation
+site:.il "פיתוח תשתיות" שומרון
+site:.il "תשתיות תחבורה" שומרון
+site:.il "תשתיות לאומיות" שומרון
+site:.il "תחבורה ציבורית" שומרון
+site:.il "תכנון תחבורתי" שומרון
+site:.il "communities in Judea"
+site:.il "housing in Samaria"
+site:.il "settlement community" Israel
+site:.il "regional council" Samaria
+site:.il "community expansion" Samaria
+site:.il "residential project" Samaria
+site:.il "infrastructure project" West Bank Israel
+site:.il "transportation plan" "Judea and Samaria"
+site:.il "public transport" Samaria Israel
+site:.il "infrastructure development" West Bank Israel
+site:.il "master plan" Samaria Israel
+site:.il "railway" Samaria Israel
+site:.il "transport map" West Bank Israel
+
+Industrial
+site:.il "אזור תעשייה" "מעלה אדומים"
+site:.il "אזור תעשייה" שומרון
+site:.il "אזור תעשייה" יהודה
+site:.il "אזור תעשייה" יו״ש
+site:.il "פארק תעשייה" שומרון
+site:.il "פארק תעשייה" יהודה
+site:.il "מתחם תעשייה" שומרון
+site:.il "אזור תעשייה" ברקן
+site:.il "אזור תעשייה" אריאל
+site:.il "אזור תעשייה" קרני שומרון
+site:.il "אזור תעשייה" אפרת
+site:.il "אזור תעשייה" גוש עציון
+site:.il "אזור תעשייה" מישור אדומים
+site:.il "פארק תעשייה" מישור אדומים
+site:.il "מתחם תעסוקה" שומרון
+site:.il "מרכז תעסוקה" שומרון
+site:.il "אזור תעסוקה" יהודה
+site:.il "פיתוח תעסוקתי" שומרון
+site:.il "פיתוח אזור תעשייה" שומרון
+site:.il "לוגיסטיקה" שומרון
+site:.il "מרלו\"ג" שומרון
+site:.il "מרכז לוגיסטי" שומרון
+site:.il "שטחי מסחר" שומרון
+site:.il "שטחי תעשייה" שומרון
+site:.il "תב\"ע" "אזור תעשייה" שומרון
+site:.il "תכנית מתאר" "אזור תעשייה" שומרון
+site:.il "תכנית מפורטת" "אזור תעשייה"
+site:.il "industrial zone" "West Bank"
+site:.il "industrial park" Samaria Israel
+site:.il "employment zone" Samaria
+site:.il "industrial area" "Maale Adumim"
+site:.il "industrial park" "Judea and Samaria"
+
+Settlement expansion & ideological framing
+site:.il "התיישבות" שומרון
+site:.il "התיישבות צעירה"
+site:.il "יישוב חדש" שומרון
+site:.il "פיתוח יישובי" שומרון
+site:.il "חיזוק ההתיישבות"
+site:.il "עיבוי יישוב" שומרון
+site:.il "קליטת תושבים" שומרון
+site:.il "הרחבת יישוב" יהודה
+site:.il "לב השומרון" נדל״ן
+site:.il "יישוב קהילתי" שומרון
+site:.il "הרחבה קהילתית" שומרון
+site:.il "חיזוק אחיזה" שומרון
+site:.il "אחיזה יהודית" שומרון
+site:.il "נוכחות יהודית" שומרון
+site:.il "התבססות יישובית" שומרון
+site:.il "ריבונות" שומרון
+site:.il "מימוש ריבונות"
+site:.il "צמיחה דמוגרפית" שומרון
+site:.il "הגדלת היישוב" שומרון
+site:.il "פיתוח מואץ" שומרון
+site:.il "פיתוח עתידי" שומרון
+site:.il "עתיד היישוב" שומרון
+site:.il "הסדרת יישוב"
+site:.il "הסדרה תכנונית" שומרון
+site:.il "הכרה ביישוב"
+site:.il "יישוב מוסדר"
+site:.il "מעמד יישובי"
+site:.il "קליטת משפחות צעירות" שומרון
+site:.il "גרעין משפחות" שומרון
+site:.il "הקמת קהילה חדשה"
+site:.il "קהילה מתרחבת" שומרון
+site:.il "חיזוק הקהילה" שומרון
+site:.il "חלוציות" שומרון
+site:.il "התיישבות חלוצית"
+site:.il "דור ההמשך" שומרון
+site:.il "נוער להתיישבות"
+site:.il "חשיבות אסטרטגית" שומרון
+site:.il "רצף התיישבותי"
+site:.il "עומק אסטרטגי" שומרון
+site:.il "ביסוס רצף" שומרון
+site:.il "פיתוח מרחבי" שומרון
+site:.il "עיבוי מרחבי" שומרון
+site:.il "תוספת שכונות" שומרון
+site:.il "שכונה חדשה" שומרון
+site:.il "strengthening communities" Samaria
+site:.il "community growth" Samaria Israel
+site:.il "settlement strengthening"
+site:.il "strategic communities" Samaria
+site:.il "pioneering communities" Judea
+
+Planning, zoning & statutory language
+site:.il "תכנית מתאר" שומרון
+site:.il "תב\"ע" שומרון
+site:.il "תכנית מפורטת" שומרון
+
+Sales, marketing & investment
+site:.il "למכירה בשומרון"
+site:.il "למכירה ביהודה ושומרון"
+site:.il "פריסייל" שומרון
+site:.il "הזדמנות השקעה" שומרון
+site:.il "דירות חדשות" שומרון
+site:.il "בית פרטי" שומרון
+site:.il "דירה למכירה" שומרון
+site:.il "בתים למכירה" שומרון
+site:.il "נכסים למכירה" שומרון
+site:.il "מכירת דירות" שומרון
+site:.il "שיווק פרויקט" שומרון
+site:.il "פרויקט חדש" שומרון
+site:.il "השקה" שומרון דירות
+site:.il "יציאה לשיווק" שומרון
+site:.il "שיווק מוקדם" שומרון
+site:.il "דירות בפרויקט חדש" שומרון
+site:.il "השקעה בנדל\"ן" שומרון
+site:.il "נדל\"ן להשקעה" שומרון
+site:.il "תשואה גבוהה" שומרון
+site:.il "השקעה בטוחה" שומרון
+site:.il "פוטנציאל השבחה" שומרון
+site:.il "קהילה איכותית" שומרון
+site:.il "איכות חיים" שומרון דירות
+site:.il "משפחות צעירות" שומרון
+site:.il "מגורים כפריים" שומרון
+site:.il "אווירה קהילתית" שומרון
+site:.il "מחירי השקה" שומרון
+site:.il "מבצע" שומרון דירות
+site:.il "הטבות לרוכשים" שומרון
+site:.il "מחיר למשתכן" שומרון
+site:.il "תנאי תשלום" שומרון
+site:.il "להרשמה" שומרון דירות
+site:.il "השאירו פרטים" שומרון
+site:.il "יום מכירות" שומרון
+site:.il "אירוע מכירה" שומרון
+
+PDF documents
+site:.il filetype:pdf "יהודה ושומרון" דירות
+site:.il filetype:pdf "מעלה אדומים"
+site:.il filetype:pdf "ביתר עילית"
+site:.il filetype:pdf "תכנית" שומרון
+site:.il filetype:pdf "תב\"ע" יהודה
+site:.il filetype:pdf "פרויקט מגורים" שומרון
+site:.il filetype:pdf "תשתיות" שומרון
+site:.il filetype:pdf "Samaria" "project"
+site:.il filetype:pdf "West Bank" "Israel"
+site:.il filetype:pdf "יהודה ושומרון" נדל\"ן
+site:.il filetype:pdf "יו\"ש" נדל\"ן
+site:.il filetype:pdf "יהודה ושומרון" מגורים
+site:.il filetype:pdf "West Bank" Israel housing
+site:.il filetype:pdf "אזור תעשייה" שומרון
+site:.il filetype:pdf "מישור אדומים"
+site:.il filetype:pdf התיישבות
+site:.il filetype:pdf "יהודה ושומרון" התיישבות
+site:.il filetype:pdf "החטיבה להתיישבות"
+site:.il filetype:pdf "גרעין התיישבותי"
+site:.il filetype:pdf "הרחבת יישוב"
+site:.il filetype:pdf מחסום
+site:.il filetype:pdf "מעבר" שומרון
+site:.il filetype:pdf "פרויקט מגורים" שומרון
+site:.il filetype:pdf "פרויקט בנייה" שומרון
+site:.il filetype:pdf "יחידות דיור" שומרון
+site:.il filetype:pdf "שכונה חדשה" שומרון
+site:.il filetype:pdf "למכירה" שומרון
+site:.il filetype:pdf "פריסייל" שומרון
+site:.il filetype:pdf "נדל\"ן להשקעה" שומרון
+site:.il filetype:pdf "דירות חדשות" שומרון
+
+URL-based discovery
+site:.il inurl:projects "שומרון"
+site:.il inurl:projects "יהודה"
+site:.il inurl:projects "מעלה אדומים"
+site:.il inurl:projects "אריאל"
+site:.il inurl:projects "מעלה אדומים"
+site:.il inurl:projects "מודיעין עילית"
+site:.il inurl:projects "ביתר עילית"
+site:.il inurl:projects "אפרת"
+site:.il inurl:projects "קרני שומרון"
+site:.il inurl:project "Ariel"
+site:.il inurl:project "Maale Adumim"
+site:.il inurl:projects "Beitar Illit"
+site:.il inurl:settlement
+site:.il inurl:community שומרון
+site:.il inurl:expansion שומרון
+site:.il inurl:infrastructure שומרון
+site:.il inurl:transport שומרון
+site:.il inurl:industrial שומרון
+site:.il inurl:industry שומרון
+site:.il inurl:logistics שומרון
+site:.il inurl:commerce שומרון
+site:.il inurl:employment שומרון
+site:.il inurl:settlement
+site:.il inurl:hitnachlut
+site:.il inurl:community
+site:.il inurl:amana
+site:.il inurl:yesha
+site:.il inurl:development
+site:.il inurl:checkpoint
+site:.il inurl:crossing
+site:.il inurl:terminal
+site:.il inurl:passage
+site:.il inurl:gate
+site:.il inurl:projects שומרון
+site:.il inurl:project שומרון
+site:.il inurl:construction שומרון
+site:.il inurl:development שומרון
+site:.il inurl:residential שומרון
+site:.il inurl:sale שומרון
+site:.il inurl:forsale שומרון
+site:.il inurl:investment שומרון
+site:.il inurl:marketing שומרון
+site:.il inurl:presale שומרון
+
+Maps & visual
+site:.il inurl:map "Ariel"
+site:.il inurl:map "Shomron"
+site:.il inurl:map "Samaria"
+site:.il inurl:map "Judea"
+site:.il inurl:location "West Bank"
+site:.il inurl:map שומרון
+site:.il inurl:map יהודה
+site:.il inurl:metro שומרון
+site:.il inurl:rail שומרון
+site:.il "מפת מחסומים"
+site:.il "מפת מחסומים ביהודה ושומרון"
+site:.il inurl:map מחסום
+site:.il inurl:map "מעבר"
+site:.il inurl:gis מחסום
+
+Regional councils & settlement authorities
+site:.il "המועצה האזורית" שומרון
+site:.il "מועצה אזורית בנימין"
+site:.il "מועצה אזורית גוש עציון"
+site:.il "מנהלת התיישבות"
+site:.il "החטיבה להתיישבות"
+
+Settlement movements & ideology
+site:.il "תנועת ההתיישבות"
+site:.il "תנועת התיישבות"
+site:.il "חיזוק ההתיישבות"
+site:.il "פיתוח ההתיישבות"
+site:.il "התיישבות ביהודה ושומרון"
+site:.il "התיישבות בשומרון"
+site:.il "התיישבות לאומית"
+site:.il "התיישבות חלוצית"
+site:.il "עמותה" התיישבות
+site:.il "עמותה להתיישבות"
+site:.il "ארגון התיישבות"
+site:.il "גוף מיישב"
+site:.il "יזמות התיישבותית"
+site:.il "קידום התיישבות"
+site:.il "ליווי יישובים"
+
+Regional councils & umbrella bodies
+site:.il "המועצה האזורית" שומרון
+site:.il "המועצה האזורית" בנימין
+site:.il "המועצה האזורית" גוש עציון
+site:.il "המועצה האזורית" הר חברון
+site:.il "מועצה אזורית יהודה"
+site:.il "פורום ראשי מועצות"
+
+Known settlement institutions / structures
+site:.il "החטיבה להתיישבות"
+site:.il "מנהלת ההתיישבות"
+site:.il "מנהלת יישובים"
+site:.il "אגף ההתיישבות"
+site:.il "הקרן להתיישבות"
+site:.il "מטה ההתיישבות"
+
+“Community building” euphemisms
+site:.il "קהילות חדשות"
+site:.il "הקמת קהילה"
+site:.il "קהילה מתפתחת"
+site:.il "קליטת משפחות"
+site:.il "גרעין התיישבותי"
+site:.il "גרעין קהילתי"
+
+Young settlements / outpost advocacy
+site:.il "התיישבות צעירה"
+site:.il "יישוב צעיר"
+site:.il "מאחז"
+site:.il "הסדרת מאחזים"
+site:.il "הכשרת יישוב"
+site:.il "הסדרה תכנונית"
+
+Planning, legalization & expansion advocacy
+site:.il "הרחבת יישוב"
+site:.il "עיבוי יישוב"
+site:.il "פיתוח יישובי"
+site:.il "הסדרת יישובים"
+site:.il "הכרה ביישוב"
+site:.il "תכנית להסדרה"
+
+Fundraising & support networks
+site:.il "תרומות להתיישבות"
+site:.il "סיוע להתיישבות"
+site:.il "תמיכה בהתיישבות"
+site:.il "קרן להתיישבות"
+site:.il "ידידי ההתיישבות"
+
+Core checkpoint terminology
+site:.il מחסום
+site:.il מחסומים
+site:.il "מחסום צבאי"
+site:.il "מחסומי צה\"ל"
+site:.il "מחסום קבוע"
+site:.il "מחסום זמני"
+site:.il "מחסום בידוק"
+site:.il מחסום שומרון
+site:.il מחסום יהודה
+site:.il מחסום יו\"ש
+site:.il "מחסומים ביהודה ושומרון"
+site:.il "מחסומים בשומרון"
+site:.il "מעברי בידוק" שומרון
+
+Named checkpoints
+site:.il "מחסום חווארה"
+site:.il "מחסום קלנדיה"
+site:.il "מחסום בית אל"
+site:.il "מחסום זעתרה"
+site:.il "מחסום תפוח"
+site:.il "מחסום עינב"
+site:.il "מחסום ג'למה"
+site:.il "מחסום תרקומיא"
+site:.il "מחסום מיתר"
+site:.il "מחסום ביתוניא"
+
+Euphemisms / administrative language
+site:.il "מעבר"
+site:.il "מעבר תחבורתי"
+site:.il "מעבר ביטחוני"
+site:.il "מעבר מוסדר"
+site:.il "שער ביטחוני"
+site:.il "שער כניסה"
+site:.il "שער חקלאי"
+
+Infrastructure, construction & upgrades
+site:.il "שדרוג מחסום"
+site:.il "הרחבת מחסום"
+site:.il "הקמת מחסום"
+site:.il "פיתוח מעבר"
+site:.il "תשתיות במחסום"
+site:.il "טרמינל" שומרון
+
+Planning, tenders & government documents
+site:.il "תכנון מחסום"
+site:.il "תב\"ע" מחסום
+site:.il "תכנית מתאר" מחסום
+site:.il "מכרז" מחסום
+site:.il "עבודות תשתית" מחסום
+
+International Contracts
+intext:investment intext:"West Bank"
+intext:investment intext:"Judea and Samaria"
+intext:project intext:"West Bank"
+intext:project intext:"Judea and Samaria"
+intext:development intext:"West Bank"
+intext:development intext:"Judea and Samaria"
+
+Settlements names - Hebrew
+מעלה אדומים
+אריאל
+מודיעין עילית
+ביתר עילית
+גבעת זאב
+אפרת
+קרני שומרון
+אלפי מנשה
+אורנית
+שערי תקווה
+עמנואל
+קדומים
+שילה
+עלי
+תקוע
+בית אל
+מעלה אפרים
+ברקן
+יקיר
+נופים
+עינב
+הר ברכה
+יצהר
+איתמר
+רחלים
+מגדלים
+רבבה
+פדואל
+שבי שומרון
+חיננית
+טל מנשה
+מבוא דותן
+שקד
+ריחן
+עפרה
+פסגות
+מעלה מכמש
+אדם (גבע בנימין)
+כוכב יעקב
+תל ציון
+דולב
+ניל״י
+נעלה
+בית חורון
+כוכב השחר
+רימונים
+אלון שבות
+נווה דניאל
+אלעזר
+ראש צורים
+מגדל עוז
+כפר עציון
+בת עין
+בקעות
+מחולה
+פצאל
+תומר
+גלגל
+ארגמן
+ייטב
+נעמ״ה
+רותם
+עתניאל
+כרמל
+מעון
+סוסיא
+טנא עומרים
+פסגת זאב
+נווה יעקב
+רמות
+גילה
+הר חומה
+תלפיות מזרח
+מעלות דפנה
+הגבעה הצרפתית
+רמת שלמה
+מישור אדומים
+
+Settlements names - English
+Ma'ale Adumim
+Ariel
+Modi'in Illit
+Beitar Illit
+Givat Zeev
+Efrat
+Karnei Shomron
+Alfei Menashe
+Oranit
+Sha'arei Tikva
+Immanuel
+Kedumim
+Shilo
+Eli
+Tekoa
+Beit El
+Ma'ale Efraim
+Barkan
+Yakir
+Nofim
+Einav
+Har Bracha
+Yitzhar
+Itamar
+Rehelim
+Migdalim
+Revava
+Peduel
+Shavei Shomron
+Hinanit
+Tal Menashe
+Mevo Dotan
+Shaked
+Reihan
+Ofra
+Psagot
+Ma'ale Mikhmas
+Adam (Geva Binyamin)
+Kokhav Ya'akov
+Tel Zion
+Dolev
+Nili
+Na'ale
+Beit Horon
+Kokhav HaShahar
+Rimmonim
+Alon Shvut
+Neve Daniel
+Elazar
+Rosh Tzurim
+Migdal Oz
+Kfar Etzion
+Bat Ayin
+Beka'ot
+Mehola
+Petza'el
+Tomer
+Gilgal
+Argaman
+Yitav
+Na'ama
+Rotem
+Otniel
+Carmel
+Ma'on
+Susya
+Teneh Omarim
+Pisgat Ze'ev
+Neve Ya'akov
+Ramot
+Gilo
+Har Homa
+East Talpiot
+Ma'alot Dafna
+French Hill
+Ramat Shlomo
+Mishor Adumim
